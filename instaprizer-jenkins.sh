@@ -13,4 +13,4 @@ docker run \
 
 # show endpoint
 echo '##### Instaprizer Jenkins container successfully created #####'
-echo 'You can access Jenkins at: http://'$(curl -s ipconfig.co)':8080'
+echo 'You can access Jenkins at: http://'$(curl -s ifconfig.io)':8080'
